@@ -1,7 +1,6 @@
 {
   "name": "lesson10",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "node-sass": "sass -w assets/scss/:assets/css/"
@@ -11,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "node-sass": "^8.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matildamain/Lesson10.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Matildamain/Lesson10/issues"
+  },
+  "homepage": "https://github.com/Matildamain/Lesson10#readme",
+  "description": ""
 }
