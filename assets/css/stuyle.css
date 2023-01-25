@@ -89,6 +89,7 @@ h4 {
 
 body {
   padding: 0 16px;
+  background-color: #fff;
 }
 body header {
   display: flex;
@@ -121,6 +122,35 @@ body header nav svg:first-child {
 }
 body header nav svg:hover {
   scale: 1.2;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cover {
+  position: relative;
+  width: 100%;
+  padding-top: 100%;
+}
+
+.rectangle {
+  width: 100%;
+  padding-top: 64.4567219153%;
+}
+
+.img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.main .main-container {
+  width: 49%;
+  background-color: #0085FF;
 }
 
 /*# sourceMappingURL=stuyle.css.map */
